@@ -4,8 +4,8 @@ Projek Tugas Akhir untuk memperoleh gelar... yaa gelar :)
 
 ## Download Kiloan
 
+#### Directly
 You can download the zip directly
-or
 
 #### Using Git
 ```
